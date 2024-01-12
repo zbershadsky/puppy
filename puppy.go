@@ -23,3 +23,7 @@ func BigBarks() string {
 func HeyFromV1() string {
 	return "It's v1.0.0"
 }
+
+func HeyFromV11() string {
+	return "It's v1.1.0"
+}
